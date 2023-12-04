@@ -21,9 +21,8 @@ body {
 }
 
 .container {
-  max-width: 520px;
-  height: 450px;
-  margin-top: 200px;
+  max-width: 600px;
+  margin-top: 20%;
   padding: 20px;
   border-radius: 1rem;
   background: hsl(0, 0%, 100%);
@@ -31,7 +30,7 @@ body {
 }
 
 .container h1 {
-  font-size: 2.5rem;
+  font-size: 3rem;
   font-weight: 700;
 }
 
@@ -46,7 +45,7 @@ body {
 }
 
 .faq-group {
-  margin-bottom: 10px;
+  margin-bottom: 20px;
 }
 
 .faq-group-header {
@@ -57,11 +56,11 @@ body {
 }
 .faq-group-header h4 {
   width: 95%;
-  font-size: 1rem;
+  font-size: 1.2rem;
   font-weight: 600;
   line-height: 1.7;
   color: hsl(292, 42%, 14%);
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   transition: 0.3s;
 }
 
@@ -76,7 +75,7 @@ body {
 }
 
 .faq-group-content {
-  font-size: 0.8rem;
+  font-size: 0.9rem;
   margin-top: 0.5rem;
   line-height: 1.5;
   color: var(--Grayish-purple);
@@ -119,7 +118,7 @@ body {
     max-width: 300px;
     height: 600px;
     justify-self: start;
-    margin-top: 100px;
+    margin-top: 10%;
   }
 
   .faq-group-header img {
